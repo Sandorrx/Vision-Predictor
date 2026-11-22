@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://github.com/Sandorrx/Chroma-GG-Predictor/releases/download/vision/Vison.Predictor.zip">
+<a href="https://github.com/Sandorrx/Vision-Predictor/releases/download/vision/Vision.Predictor.zip">
   <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
@@ -40,7 +40,7 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 
 1. **Download the extension**
    
-   [Click me For download](https://github.com/Sandorrx/Chroma-GG-Predictor/releases/download/vision/Vison.Predictor.zip)
+   [Click me For download](https://github.com/Sandorrx/Vision-Predictor/releases/download/vision/Vision.Predictor.zip)
 
 2. **Extract the ZIP**
    - Extract the contents to a folder you'll remember
